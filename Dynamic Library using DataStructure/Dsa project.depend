@@ -1,0 +1,164 @@
+# depslib dependency file v1.0
+1480150977 source:c:\users\shubham mittal\desktop\dsa project\linkedlist.c
+
+1480264699 source:c:\users\shubham mittal\desktop\dsa project\main.c
+	"header.h"
+
+1480270781 c:\users\shubham mittal\desktop\dsa project\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<malloc.h>
+	<windows.h>
+
+1480241651 source:c:\users\shubham mittal\desktop\dsa project\sll.c
+	<stdio.h>
+
+1480241758 source:c:\users\shubham mittal\desktop\dsa project\doublell.c
+	<stdio.h>
+
+1480150976 source:c:\users\shubham mittal\desktop\dsa project\cirll.c
+	<stdio.h>
+
+1480268120 source:c:\users\shubham mittal\desktop\dsa project\stack.c
+
+1480241651 source:c:\users\shubham mittal\desktop\dsa project\arraystack.c
+
+1480241651 source:c:\users\shubham mittal\desktop\dsa project\aqueue.c
+
+1480241651 source:c:\users\shubham mittal\desktop\dsa project\cqueue.c
+
+1480241651 source:c:\users\shubham mittal\desktop\dsa project\deque.c
+
+1480241651 source:c:\users\shubham mittal\desktop\dsa project\linkedstack.c
+	<stdio.h>
+
+1480241651 source:c:\users\shubham mittal\desktop\dsa project\priorityqueue.c
+	<stdio.h>
+
+1480270886 source:c:\users\shubham mittal\desktop\dsa project\queue.c
+
+1480233060 source:c:\users\shubham mittal\desktop\dsa project\bubble.c
+
+1480235372 source:c:\users\shubham mittal\desktop\dsa project\heap.c
+
+1480233060 source:c:\users\shubham mittal\desktop\dsa project\insertion.c
+
+1480233060 source:c:\users\shubham mittal\desktop\dsa project\lsearch.c
+
+1480233060 source:c:\users\shubham mittal\desktop\dsa project\bsearch.c
+
+1480240461 source:c:\users\shubham mittal\desktop\dsa project\searching.c
+
+1480233060 source:c:\users\shubham mittal\desktop\dsa project\selections.c
+
+1480239398 source:c:\users\shubham mittal\desktop\dsa project\sorting.c
+
+1480265606 source:c:\users\shubham mittal\desktop\dsa project\avltree.c
+	<stdio.h>
+
+1480271121 source:c:\users\shubham mittal\desktop\dsa project\stackapplication.c
+	<stdio.h>
+
+1480241651 source:e:\dsa project\aqueue.c
+
+1480241651 source:e:\dsa project\arraystack.c
+
+1480265606 source:e:\dsa project\avltree.c
+	<stdio.h>
+
+1480150976 source:e:\dsa project\cirll.c
+	<stdio.h>
+
+1480241651 source:e:\dsa project\cqueue.c
+
+1480241651 source:e:\dsa project\deque.c
+
+1480241758 source:e:\dsa project\doublell.c
+	<stdio.h>
+
+1480235372 source:e:\dsa project\heap.c
+
+1480150977 source:e:\dsa project\linkedlist.c
+
+1480241651 source:e:\dsa project\linkedstack.c
+	<stdio.h>
+
+1480264699 source:e:\dsa project\main.c
+	"header.h"
+
+1480270781 e:\dsa project\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<malloc.h>
+	<windows.h>
+
+1480241651 source:e:\dsa project\priorityqueue.c
+	<stdio.h>
+
+1480270886 source:e:\dsa project\queue.c
+
+1480240461 source:e:\dsa project\searching.c
+
+1480241651 source:e:\dsa project\sll.c
+	<stdio.h>
+
+1480239398 source:e:\dsa project\sorting.c
+
+1480268120 source:e:\dsa project\stack.c
+
+1480271540 source:e:\dsa project\stackapplication.c
+	<stdio.h>
+
+1480241651 source:e:\study material\video tutorials\dsa project\aqueue.c
+
+1480241651 source:e:\study material\video tutorials\dsa project\arraystack.c
+
+1480265606 source:e:\study material\video tutorials\dsa project\avltree.c
+	<stdio.h>
+
+1480150976 source:e:\study material\video tutorials\dsa project\cirll.c
+	<stdio.h>
+
+1480241651 source:e:\study material\video tutorials\dsa project\cqueue.c
+
+1480241651 source:e:\study material\video tutorials\dsa project\deque.c
+
+1480241758 source:e:\study material\video tutorials\dsa project\doublell.c
+	<stdio.h>
+
+1480235372 source:e:\study material\video tutorials\dsa project\heap.c
+
+1480150977 source:e:\study material\video tutorials\dsa project\linkedlist.c
+
+1480241651 source:e:\study material\video tutorials\dsa project\linkedstack.c
+	<stdio.h>
+
+1480264699 source:e:\study material\video tutorials\dsa project\main.c
+	"header.h"
+
+1480270781 e:\study material\video tutorials\dsa project\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<malloc.h>
+	<windows.h>
+
+1480241651 source:e:\study material\video tutorials\dsa project\priorityqueue.c
+	<stdio.h>
+
+1480270886 source:e:\study material\video tutorials\dsa project\queue.c
+
+1480240461 source:e:\study material\video tutorials\dsa project\searching.c
+
+1480241651 source:e:\study material\video tutorials\dsa project\sll.c
+	<stdio.h>
+
+1480239398 source:e:\study material\video tutorials\dsa project\sorting.c
+
+1480268120 source:e:\study material\video tutorials\dsa project\stack.c
+
+1480271540 source:e:\study material\video tutorials\dsa project\stackapplication.c
+	<stdio.h>
+

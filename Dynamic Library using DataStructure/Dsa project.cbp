@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Dsa project" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Dsa project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Dsa project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="aqueue.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="arraystack.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="avltree.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="bsearch.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="bubble.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cirll.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cqueue.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="deque.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="doublell.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="header.h" />
+		<Unit filename="heap.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="insertion.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="linkedlist.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="linkedstack.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lsearch.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="priorityqueue.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="queue.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="searching.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="selections.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sll.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sorting.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="stack.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="stackapplication.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
